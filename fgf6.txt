@@ -1,1 +1,1 @@
-print("hello")
+print("Sorry this service has been disabled")
